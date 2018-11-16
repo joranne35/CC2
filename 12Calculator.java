@@ -1,5 +1,5 @@
     
-package calculator;
+package Calcu;
 
 import java.util.Scanner;
 
